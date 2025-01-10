@@ -45,6 +45,6 @@
 
 ###
 
-<p align="left">I'm currently completing my studies at Fundação Liberato and aiming for a career that will allow me to enhance my existing skills while acquiring new ones to broaden my expertise.<br>I'm always open to exploring new solutions to improve my problem-solving and coding skills. If you have any tips, please feel free to send me a message — I’d be happy to chat!</p>
+<p align="justify">I'm currently completing my studies at Fundação Liberato and aiming for a career that will allow me to enhance my existing skills while acquiring new ones to broaden my expertise.<br>I'm always open to exploring new solutions to improve my problem-solving and coding skills. If you have any tips, please feel free to send me a message — I’d be happy to chat!</p>
 
 ###
